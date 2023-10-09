@@ -1,4 +1,6 @@
-# Codequiz
+<a href="https://codequizz.netlify.app/">CodeQuiz</a>
+
+<p>"CodeQuiz: Test your programming skills with interactive coding challenges, quizzes, and solutions. Sharpen your coding knowledge today!"</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
